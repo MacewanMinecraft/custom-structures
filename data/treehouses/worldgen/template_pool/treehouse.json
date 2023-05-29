@@ -1,0 +1,36 @@
+{
+    "name": "treehouses:treehouse",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "treehouses:treehouse1",
+                "processors": "minecraft:empty"
+            }
+            
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "treehouses:treehouse2",
+                "processors": "minecraft:empty"
+            }
+            
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "treehouses:treehouse3",
+                "processors": "minecraft:empty"
+            }
+            
+        }
+    ]
+}
